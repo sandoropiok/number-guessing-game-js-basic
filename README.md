@@ -11,9 +11,9 @@ A simple command-line game built with JavaScript where the player tries to guess
 
 - The game randomly selects a number between 1 and 100.
 - The player enters their guess, and the game responds with:
-  - **"Too low!"** if the guess is smaller than the correct number.
-  - **"Too high!"** if the guess is larger than the correct number.
-  - **"Congratulations!"** when the player guesses the correct number.
+  - **"Wrong! Try with a lower number."** if the guess is smaller than the correct number.
+  - **"Wrong! Try with a higher number."** if the guess is larger than the correct number.
+  - **"Congratulations, you won!"** when the player guesses the correct number.
 
 ## 🛠️ Setup
 
