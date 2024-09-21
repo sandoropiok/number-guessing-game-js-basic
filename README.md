@@ -39,3 +39,7 @@ A simple command-line game built with JavaScript where the player tries to guess
 1. Start the game and follow the prompt to enter your guess.
 2. After each guess, you'll receive feedback on whether your guess was too high, too low, or correct.
 3. Keep guessing until you find the correct number!
+
+## Screenshots
+
+![number-guessing-game](./Screnshots/Screenshot%20from%202024-09-21%2013-50-30.png)
